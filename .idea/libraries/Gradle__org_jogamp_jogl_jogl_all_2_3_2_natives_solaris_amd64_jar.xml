@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jogamp.jogl:jogl-all:2.3.2:natives-solaris-amd64@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jogamp.jogl/jogl-all/2.3.2/bde11ff064181af9c307180d8f3f1744b7bdc11d/jogl-all-2.3.2-natives-solaris-amd64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
